@@ -1,0 +1,1 @@
+# SANNYAVIANA-resumo-azure-sql
